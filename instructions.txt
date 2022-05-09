@@ -2,5 +2,3 @@ Adding few instructions to be read carefully on remote server.
 
 Installation on IIS
 ===================
-
-Content goes here.
